@@ -13,6 +13,8 @@
 * JavaScript Starter
 * Visual Studio Code
 * Git
+* Avocode
+* Figma
 ## Sample code:
 ```
 let values = [10, 20, 4, 6, 11, 9, 125, 1, 8, 0, 3];
@@ -30,3 +32,12 @@ let values = [10, 20, 4, 6, 11, 9, 125, 1, 8, 0, 3];
             sum += element;
         }
 ```
+## Experience:
+* ### Online-courses:
+  * HTML5&CSS3
+  * JavaScript Starter
+* ### Online-intensive 'Make of the website of the online store'
+## Languages:
+* Belarusian (native)
+* Russian (native)
+* English (A1)
